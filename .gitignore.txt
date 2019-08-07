@@ -1,0 +1,5 @@
+# Ignore folders
+wp-content/
+
+#Ignore files with .zip ext
+*.zip
